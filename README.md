@@ -18,6 +18,15 @@ Bu şekilde ağaç yapısı kullanılmadan huffman sıkıştırılma algoritmas�
 
 Aşağıya bazı örnekleri ekliyorum.
 
-1-) Tekli düzgün kullanım
+1-) Tekli düzgün yazım
 ![2022-12-10 (6)](https://user-images.githubusercontent.com/102043836/206870038-f0fdc8a4-3954-4efc-ae69-0af3394f0000.png)
+
+2-) Tekli tersten yazım
+![2022-12-10 (7)](https://user-images.githubusercontent.com/102043836/206870109-379e0312-33bd-49f2-a340-376ebe036b76.png)
+
+3-) Tekrarlı yazım
+![2022-12-10 (9)](https://user-images.githubusercontent.com/102043836/206870135-5eb999b7-328f-43df-97ec-431e96969163.png)
+
+4-) 8 taneli hali
+![2022-12-10 (8)](https://user-images.githubusercontent.com/102043836/206870163-31634c51-071d-48ff-877f-a998b0369851.png)
 
