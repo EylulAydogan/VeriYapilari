@@ -17,3 +17,7 @@ Sağ çocuklara giderken 1, sol çocuklara giderken 0 biti ile gideriz. Bu yüzd
 Bu şekilde ağaç yapısı kullanılmadan huffman sıkıştırılma algoritması düzeneğinde ödevimiz hazırlanmış oluyor.
 
 Aşağıya bazı örnekleri ekliyorum.
+
+1-) Tekli düzgün kullanım
+![2022-12-10 (6)](https://user-images.githubusercontent.com/102043836/206870038-f0fdc8a4-3954-4efc-ae69-0af3394f0000.png)
+
